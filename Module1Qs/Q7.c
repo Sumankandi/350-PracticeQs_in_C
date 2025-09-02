@@ -1,3 +1,5 @@
+//Implement a program to calculate the sum and average of three numbers. 
+
 #include <stdio.h>
 int main()
 {

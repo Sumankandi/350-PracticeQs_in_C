@@ -1,6 +1,9 @@
+// Implement a program to calculate simple interest
+
 #include <stdio.h>
 
-int main() {
+int main()
+{
     float amount, interest, time, simple_interest;
 
     printf("Enter Total amount, rate of interest and time: ");

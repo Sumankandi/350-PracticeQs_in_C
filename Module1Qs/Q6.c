@@ -1,5 +1,6 @@
-#include <stdio.h>
+//Write a program to demonstrate the use of constants. 
 
+#include <stdio.h>
 // Constant using #define
 #define PI 3.14159
 

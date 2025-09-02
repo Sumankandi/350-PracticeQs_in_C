@@ -1,3 +1,5 @@
+//Write a program to declare and initialize variables of all basic data types. 
+
 #include<stdio.h>
 int main()
 {

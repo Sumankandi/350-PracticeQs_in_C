@@ -1,3 +1,5 @@
+//Implement a program to demonstrate the use of the ternary operator
+
 #include <stdio.h>
 int main()
 {

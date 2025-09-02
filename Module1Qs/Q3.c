@@ -1,3 +1,5 @@
+//Implement a program to find the size of int, float, char, and double data types. 
+
 #include <stdio.h>
 int main()
 {

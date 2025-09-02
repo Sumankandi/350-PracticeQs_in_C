@@ -1,3 +1,5 @@
+// Implement a program to find the square of a number using an arithmetic operator. 
+
 #include <stdio.h>
 #include<math.h>
 int main()

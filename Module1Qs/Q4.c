@@ -1,3 +1,5 @@
+// Write a program to take user input for name, age, and marks, and display them. 
+
 #include <stdio.h>
 int main()
 {

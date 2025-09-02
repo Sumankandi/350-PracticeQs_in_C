@@ -1,3 +1,5 @@
+// Write a program to demonstrate the use of logical operators. 
+
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,5 @@
+// Develop a program to find the largest of three numbers.
+
 #include <stdio.h>
 int main() {
     int num1, num2, num3, largest_in_2, largest_in_3;

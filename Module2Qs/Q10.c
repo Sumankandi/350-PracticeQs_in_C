@@ -1,4 +1,4 @@
-// Implement a program to find the factorial of a number using a for loop
+// Implement a program to find the factorial of a number using a for loop .
 
 #include <stdio.h>
 int main()

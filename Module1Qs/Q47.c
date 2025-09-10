@@ -9,6 +9,6 @@ int main()
     scanf("%d", &num);
 
     avg = (num * (num + 1) / 2.0) / num;
-    printf("Avarage a n num is : %.2f", avg);
+    printf("Avarage of first %d num is : %.2f", num, avg);
     return 0;
 }
